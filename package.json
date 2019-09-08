@@ -30,6 +30,9 @@
   },
   "dependencies": {
     "@vernier/godirect": "1.5.0",
+    "apollo-cache-inmemory": "^1.6.3",
+    "apollo-client": "^2.6.4",
+    "apollo-link-http": "^1.5.15",
     "arraybuffer-loader": "^1.0.6",
     "atob": "2.1.2",
     "btoa": "1.2.1",
@@ -37,6 +40,8 @@
     "decode-html": "2.0.0",
     "diff-match-patch": "1.0.4",
     "format-message": "6.2.1",
+    "graphql": "^14.5.3",
+    "graphql-tag": "^2.10.1",
     "htmlparser2": "3.10.0",
     "immutable": "3.8.1",
     "jszip": "^3.1.5",
