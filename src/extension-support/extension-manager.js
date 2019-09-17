@@ -25,7 +25,8 @@ const builtinExtensions = {
     boost: () => require('../extensions/scratch3_boost'),
     gdxfor: () => require('../extensions/scratch3_gdx_for'),
     newblock: () => require('../extensions/scratch3_newblock'),
-    graphqlblock: () => require('../extensions/scratch3_graphql')
+    graphqlblock: () => require('../extensions/scratch3_graphql'),
+    slack: () => require('../extensions/scratch3_slack')
 };
 
 /**
